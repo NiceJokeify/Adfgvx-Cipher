@@ -1,7 +1,5 @@
 # Adfgvx-Cipher
 
-# Adfgvx-Cipher
-
 
 The ADFGVX code was used by the German durin World War I
   It is more difficult to deciher than the Playfair code because it uses a double
@@ -74,4 +72,4 @@ The ADFGVX code was used by the German durin World War I
     Contrary to the other codes previously seen, this one changes the total coded line
     when a letter is appended to the original message
   
- /
+ 
